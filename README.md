@@ -10,6 +10,7 @@
 |Piyas Mahamude Alif | 21 | Daffodil University |  
 
 ```javascript
+// funtion piyas
 const x = 32 ;
 function piyas = (a) =>{
     console.log(a);
