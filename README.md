@@ -11,7 +11,7 @@
 
 [go to github](http://www.facebook.com)  
 <br/>
-<img src="./img/sun.png">
+<img src="./img/sun.png" width="100%">
 
 
 
